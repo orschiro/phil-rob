@@ -132,7 +132,11 @@
          y="8.8999538"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';fill:#ffffff;stroke-width:0.0945024px;stroke:#ffffff;stroke-opacity:1">&amp;</tspan></text>
     <circle
+<<<<<<< HEAD
        style="fill:none;stroke:#ffffff;stroke-width:0.52916667;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+=======
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.52916667;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+>>>>>>> b2ba2b52e7d07b9415dae59081afd7874b0c6250
        id="path57"
        cx="7.2125468"
        cy="6.7082081"
