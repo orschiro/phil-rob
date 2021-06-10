@@ -136,7 +136,11 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';fill:#ffffff;stroke:#ffffff;stroke-width:0.0816261px;stroke-opacity:1">&amp;</tspan></text>
     </g>
     <circle
+<<<<<<< HEAD
        style="fill:none;stroke:#ffffff;stroke-width:0.661;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+=======
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.66145833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+>>>>>>> 5426d05b23dbde54a2ae09d86af2d93178f45709
        id="path57"
        cx="7.2125468"
        cy="6.7082081"
