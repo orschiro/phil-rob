@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.7823717"
-     inkscape:cx="-47.261838"
-     inkscape:cy="62.716279"
+     inkscape:zoom="3.9348678"
+     inkscape:cx="-68.998506"
+     inkscape:cy="39.518481"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g2020"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1274"
@@ -56,9 +56,15 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <circle
+       style="fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.661001"
+       id="path1087"
+       cx="7.0231128"
+       cy="6.4498777"
+       r="5.8303661" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.8262px;line-height:125%;font-family:Z003;-inkscape-font-specification:Z003;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.270653px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.8262px;line-height:125%;font-family:Z003;-inkscape-font-specification:Z003;letter-spacing:0px;word-spacing:0px;fill:#ffcc00;fill-opacity:1;stroke:#ffffff;stroke-width:0.270653px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="9.5046749"
        y="8.2772894"
        id="text23"
@@ -70,10 +76,10 @@
          id="tspan21"
          x="9.5046749"
          y="8.2772894"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Z003;-inkscape-font-specification:Z003;fill:#ffffff;stroke:#ffffff;stroke-width:0.270653px;stroke-opacity:1" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Z003;-inkscape-font-specification:Z003;fill:#ffcc00;stroke:#ffffff;stroke-width:0.270653px;stroke-opacity:1" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.98041px;line-height:125%;font-family:Z003;-inkscape-font-specification:Z003;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.124509px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.98041px;line-height:125%;font-family:Z003;-inkscape-font-specification:Z003;letter-spacing:0px;word-spacing:0px;fill:#ffcc00;fill-opacity:1;stroke:#ffffff;stroke-width:0.124509px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="7.7196903"
        y="7.7083521"
        id="text27"
@@ -85,17 +91,17 @@
          id="tspan25"
          x="7.7196903"
          y="7.7083521"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Z003;-inkscape-font-specification:Z003;fill:#ffffff;stroke:#ffffff;stroke-width:0.124509px;stroke-opacity:1" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Z003;-inkscape-font-specification:Z003;fill:#ffcc00;stroke:#ffffff;stroke-width:0.124509px;stroke-opacity:1" /></text>
     <g
        id="g2020"
-       transform="matrix(0.80651316,0,0,0.80651316,1.4166797,1.2608624)"
-       style="fill:#ffffff"
+       transform="matrix(0.80651316,0,0,0.80651316,1.014892,1.2571101)"
+       style="fill:#ffcc00"
        inkscape:export-filename="/home/orschiro/Downloads/phil-rob/site_logo.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.22418px;line-height:125%;font-family:Z003;-inkscape-font-specification:Z003;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.205604px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.22418px;line-height:125%;font-family:Z003;-inkscape-font-specification:Z003;letter-spacing:0px;word-spacing:0px;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:0.205604px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="2.1408415"
          y="8.2493544"
          id="text12"
@@ -107,10 +113,10 @@
            id="tspan10"
            x="2.1408415"
            y="8.2493544"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';fill:#ffffff;stroke:#ffffff;stroke-width:0.205604px;stroke-opacity:1">P</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';fill:#ffcc00;stroke:none;stroke-width:0.205604px;stroke-opacity:1">P</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.22418px;line-height:125%;font-family:Z003;-inkscape-font-specification:Z003;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.205604px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.22418px;line-height:125%;font-family:Z003;-inkscape-font-specification:Z003;letter-spacing:0px;word-spacing:0px;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:0.205604px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="4.26057"
          y="12.359297"
          id="text5019"
@@ -122,10 +128,10 @@
            id="tspan5017"
            x="4.26057"
            y="12.359297"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';fill:#ffffff;stroke:#ffffff;stroke-width:0.205604px;stroke-opacity:1">R</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';fill:#ffcc00;stroke:none;stroke-width:0.205604px;stroke-opacity:1">R</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.26507px;line-height:125%;font-family:Z003;-inkscape-font-specification:Z003;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.0816261px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.26507px;line-height:125%;font-family:Z003;-inkscape-font-specification:Z003;letter-spacing:0px;word-spacing:0px;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:0.0816261px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="3.3850017"
          y="8.7781725"
          id="text5483"
@@ -137,7 +143,7 @@
            id="tspan5481"
            x="3.3850017"
            y="8.7781725"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';fill:#ffffff;stroke:#ffffff;stroke-width:0.0816261px;stroke-opacity:1">&amp;</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';fill:#ffcc00;stroke:none;stroke-width:0.0816261px;stroke-opacity:1">&amp;</tspan></text>
     </g>
   </g>
 </svg>
